@@ -13,7 +13,6 @@ Nesta disciplina eu irei aprender mais sobre:
 
 1. Desenvolvimento Mobile com Ionic
 2. Conceitos de desenvolvimento ágil de software
-3. Conceitos de modelagem e arquitetura de software
 
 Links úteis:
 
