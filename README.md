@@ -2,8 +2,8 @@
 
 Este é meu primeiro **repositório** no _Github_.
 
-Eis um trecho de código em TypeScrip:
-`console.log("Ola mundo!")`
+Eis um trecho de código em Java:
+`System.out.println("Ola mundo!")`
 
 Como diria o filósfo:
 
