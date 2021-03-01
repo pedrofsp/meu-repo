@@ -2,8 +2,8 @@
 
 Este é meu primeiro **repositório** no _Github_.
 
-Eis um trecho de código em Pyhton:
-`print("Ola mundo!")`
+Eis um trecho de código em TypeScript:
+`console.log("Ola mundo!")`
 
 Como diria o filósfo:
 
@@ -17,6 +17,7 @@ Nesta disciplina eu irei aprender mais sobre:
 
 Links úteis:
 
+- [UFLA](https://www.ufla.br)
 - [Campus Virtual](https://campusvirtual.ufla.br)
 
 ![Imagem da UFLA](https://ufla.br/images/noticias/2018/08_ago/biblioteca-ufla.jpg)
